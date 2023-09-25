@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aisobi
 - 👀 I’m interested in A.I.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Facebook. 
+- 💞️ I’m looking to collaborate on social media. 
 - 📫 How to reach me fb.com/nafis.torabee
 
 <!---
