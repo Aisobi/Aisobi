@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aisobi
 - 👀 I’m interested in A.I.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Web Development and Cyber Security.
 - 💞️ I’m looking to collaborate on social media. 
 - 📫 How to reach me fb.com/nafis.torabee
 
