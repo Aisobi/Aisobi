@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Aisobi
-- 👀 I’m interested in A.I.
-- 🌱 I’m currently learning Python, Web Development and Cyber Security.
-- 💞️ I’m looking to collaborate on social media. 
-- 📫 How to reach me fb.com/nafis.torabee
+Hi, I’m Nafis 👋
 
-<!---
-Aisobi/Aisobi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Computer Engineering Student | Aspiring AI Developer
+
+🌱 Learning Python, Machine Learning, and Automation
+
+🛠 Interested in AI, Data Science, and Software Development
+
+🚀 Building small projects to grow my skills
+
+📚 Always exploring new technologies
+
+⭐ Learning never stops
