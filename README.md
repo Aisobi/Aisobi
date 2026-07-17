@@ -20,10 +20,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aisobi&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ![](https://github-readme-stats.shion.dev/api?username=Aisobi&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<br/>
+<br/>
 ![](https://streak-stats.demolab.com/?user=Aisobi&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aisobi&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aisobi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
